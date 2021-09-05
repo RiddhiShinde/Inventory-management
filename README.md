@@ -1,4 +1,4 @@
-# iventory-management
+# Inventory-management
 this is a small inventory management set of programs. It was acomplished using python 3 and stored using json     
 
 features:
